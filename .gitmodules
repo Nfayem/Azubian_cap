@@ -1,0 +1,3 @@
+[submodule "Capstone_App"]
+	path = Capstone_App
+	url = https://github.com/Nfayem/Azubian_pred_app.git
